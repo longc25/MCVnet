@@ -6,7 +6,7 @@ In order to improve the reliability of candidates identified by molecular clump 
 ## Model Architecture
 
 
-![](images/model_structure.png)
+![](img/resnet-3d.png)
 
 ## Prerequisites
 - Python 3.7
