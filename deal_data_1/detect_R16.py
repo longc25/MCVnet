@@ -145,7 +145,7 @@ def verify_resnet(verify_path,pre_dir,no_threshold,yes_threshold,save_path,mode=
     df_merge=pd.merge(df_verify,df_yes_all,on='ID',how='inner')
     difference_list=[i for i in df_verify['ID'].values if i not in df_yes_all['ID'].values]
     ps_df=pd.Series(difference_list)
-    ps_df.to_csv('/home/data/clumps_share/data_longc/R16_LDC_data/verify/df.csv',index=False,sep='\t')
+    # ps_df.to_csv('/verify/df.csv',index=False,sep='\t')
     df_merge.to_csv(save_path,index=False,sep='\t')
     print(difference_list,df_merge.shape[0])
 

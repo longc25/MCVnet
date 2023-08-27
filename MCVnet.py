@@ -346,7 +346,7 @@ if __name__ == '__main__':
     # save_dir = r'/home/data/longc/pycharm/voxnet/realdata_result/date_04011'
     #R2
     train_data=r'/home/data/longc/pycharm/voxnet/R2_R16_3/R2/train_data_1'
-    save_dir = r'/home/data/longc/pycharm/voxnet/R2_R16_3/training_result/date_0605_bg'
+    save_dir = r'models/date_0605_bg'
     os.makedirs(save_dir, exist_ok=True)
     log_savepath = os.path.join(save_dir, 'mylogs')
     os.makedirs(log_savepath, exist_ok=True)
