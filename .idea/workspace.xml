@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9dba7e2a-3076-420e-91dc-9a9bc3bf3667" name="Default Changelist" comment="" />
+    <list default="true" id="9dba7e2a-3076-420e-91dc-9a9bc3bf3667" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MCVnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/MCVnet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deal_data_1/detect_R16.py" beforeDir="false" afterPath="$PROJECT_DIR$/deal_data_1/detect_R16.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2G3gsZPIzXVjoHJB0PRsfwcdcWz" />
   <component name="ProjectViewState">
@@ -14,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -89,6 +106,7 @@
       <workItem from="1665731292815" duration="2717000" />
       <workItem from="1665755347787" duration="837000" />
       <workItem from="1688863560536" duration="5435000" />
+      <workItem from="1693144703001" duration="747000" />
     </task>
     <servers />
   </component>
